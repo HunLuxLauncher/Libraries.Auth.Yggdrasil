@@ -27,6 +27,7 @@ Minecraft authentication library for the *old* Yggdrasil authentication method. 
 > > ...
 > > Authenticator authenticator = new Authenticator(user_agent, client_token);
 > > ```
+> Check out the [sample WPF project](https://github.com/HunLuxLauncher/Libraries.Auth.Yggdrasil.Sample) to understand how does it work.
 
 ### Used sources:
 - [wiki.vg](https://wiki.vg/Authentication)
