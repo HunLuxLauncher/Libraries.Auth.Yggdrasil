@@ -7,10 +7,10 @@ namespace hu.hunluxlauncher.libraries.auth.yggdrasil
 {
     public class InvalidationRequest
     {
-        [JsonPropertyName("access_token")]
+        [JsonPropertyName("accessToken")]
         public string AccessToken { get; set; }
 
-        [JsonPropertyName("client_token")]
+        [JsonPropertyName("clientToken")]
         public string ClientToken { get; set; }
     }
 }
